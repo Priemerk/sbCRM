@@ -1,7 +1,7 @@
-Service Request
-* Check if the Service Request Type is installed as CRM solution. If not, install the required Service Request type from the Adxstudio Solution Gallery.
-* Add the Respective Service Request webform to the Service Request web page.
-* Cache Invalidation setup in your browser - http://community.adxstudio.com/products/adxstudio-portals/documentation/developers-guide/cache/cache-invalidation-utility/
+##Service Request
+1. Check if the Service Request Type is installed as CRM solution. If not, install the required Service Request type from the Adxstudio Solution Gallery.
+2. Add the Respective Service Request webform to the Service Request web page.
+3. Cache Invalidation setup in your browser - http://community.adxstudio.com/products/adxstudio-portals/documentation/developers-guide/cache/cache-invalidation-utility/
 
 4.	Follow this documentation to setup the Duplicate Detection for Service Requests https://community.adxstudio.com/products/adxstudio-portals/documentation/end-users-guide/portal-application-guide/government-features/the-3-1-1-scenario-for-government/enabling-duplicate-detection-on-service-requests/
 
